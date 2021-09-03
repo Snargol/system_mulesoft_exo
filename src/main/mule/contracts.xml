@@ -33,14 +33,14 @@ output application/json
     "CUTOFF_AMOUNT": 64.4
   },
   {
-    "Contract_ID": "11",
+    "Contract_ID": "10",
     "Creation_Date": "21-02-2019",
     "Start_Date": "30-04-2018",
     "End_Date": "30-04-2019",
     "Customer_ID": "301207461",
     "Salesman_ID": "80020000126",
     "SalesUnit_ID": "21M123COPL-EVFR-01",
-    "Amount": "23250.000000",
+    "Amount": "23050.000000",
     "Contract_Name": "",
     "Currency_Code": "EUR",
     "Renew": "",
@@ -80,7 +80,7 @@ output application/json
     "Customer_ID": "300327461",
     "Salesman_ID": "800022000126",
     "SalesUnit_ID": "21MC12OPL-EVFR-01",
-    "Amount": "23250.000000",
+    "Amount": "20250.000000",
     "Contract_Name": "",
     "Currency_Code": "EUR",
     "Renew": "",
@@ -100,7 +100,7 @@ output application/json
     "Customer_ID": "30027461",
     "Salesman_ID": "80001000126",
     "SalesUnit_ID": "21MC21OPL-EVFR-01",
-    "Amount": "23250.000000",
+    "Amount": "18250.000000",
     "Contract_Name": "",
     "Currency_Code": "EUR",
     "Renew": "",
@@ -120,7 +120,7 @@ output application/json
     "Customer_ID": "300227461",
     "Salesman_ID": "800120000126",
     "SalesUnit_ID": "21MCOPL-EVFR-01",
-    "Amount": "23250.000000",
+    "Amount": "19900.000000",
     "Contract_Name": "",
     "Currency_Code": "EUR",
     "Renew": "",
@@ -140,7 +140,7 @@ output application/json
     "Customer_ID": "3007461",
     "Salesman_ID": "80000200126",
     "SalesUnit_ID": "21MC12PL-EVFR-01",
-    "Amount": "23250.000000",
+    "Amount": "33000.000000",
     "Contract_Name": "",
     "Currency_Code": "EUR",
     "Renew": "",
@@ -153,14 +153,14 @@ output application/json
     "CUTOFF_AMOUNT": 1932.13
   },
   {
-    "Contract_ID": "119",
+    "Contract_ID": "118",
     "Creation_Date": "21-02-2019",
     "Start_Date": "30-04-2018",
     "End_Date": "30-04-2019",
     "Customer_ID": "30071461",
     "Salesman_ID": "800021000126",
     "SalesUnit_ID": "21M21COPL-EVFR-01",
-    "Amount": "23250.000000",
+    "Amount": "50250.000000",
     "Contract_Name": "",
     "Currency_Code": "EUR",
     "Renew": "",
@@ -180,7 +180,7 @@ output application/json
     "Customer_ID": "3007461",
     "Salesman_ID": "800120000126",
     "SalesUnit_ID": "21MC2OPL-EVFR-01",
-    "Amount": "23250.000000",
+    "Amount": "13250.000000",
     "Contract_Name": "",
     "Currency_Code": "EUR",
     "Renew": "",
@@ -200,7 +200,7 @@ output application/json
     "Customer_ID": "3007461",
     "Salesman_ID": "800012000126",
     "SalesUnit_ID": "21MCO2PL-EVFR-01",
-    "Amount": "23250.000000",
+    "Amount": "43250.000000",
     "Contract_Name": "",
     "Currency_Code": "EUR",
     "Renew": "",
@@ -212,9 +212,7 @@ output application/json
     "CUTOFF_MONTH": "01-01-2019",
     "CUTOFF_AMOUNT": 1932.13
   }
-]
-
-]]></ee:set-payload>
+]]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
 	</flow>
